@@ -9,4 +9,4 @@ Tkinterで実装した簡単なタイピングゲーム
 
 ### 参考
 
-[https://qiita.com/takahashi_you/items/1386681c7ad7119815eb]https://qiita.com/takahashi_you/items/1386681c7ad7119815eb
+https://qiita.com/takahashi_you/items/1386681c7ad7119815eb
